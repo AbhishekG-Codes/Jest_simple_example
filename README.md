@@ -1,3 +1,6 @@
+#Unit testing in JEST
+Unit testing-testing individual functions in isolation
+
 npm install --save-dev ts-jest  @jest/globals
 npx ts-jest config:init
 
